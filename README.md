@@ -21,7 +21,7 @@ Analyzed correlation between variables (humidity vs temperature showed a stronge
 capped outliers in temperature and pressure.
 Train-test split (80% training, 20% testing).
 
-3. Model Building
+3.Model Building
 Linear Regression
 Polynomial Regression
 
